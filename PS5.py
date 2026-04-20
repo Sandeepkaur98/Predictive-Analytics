@@ -182,5 +182,5 @@ if __name__ == "__main__":
     # Strategic dashboard
     analyzer.print_strategy_insights(matrix)
     
-    print("\n✅ Model complete! Ready for real OSINT integration (API feeds for sentiment, census CSV, etc.).")
+    print("\n Model complete! Ready for real OSINT integration (API feeds for sentiment, census CSV, etc.).")
     print("Extend by: adding CSV input, ML model (scikit-learn on past elections), or live dashboard (Streamlit).")
